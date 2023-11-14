@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "create": "vue create hello-world"
+  },
+  "dependencies": {
+    "@vue/cli": "^5.0.8"
+  }
+}
